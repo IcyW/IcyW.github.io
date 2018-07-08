@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://icyhh.site/"/>
-  <updated>2018-07-05T17:31:51.000Z</updated>
+  <updated>2018-07-08T09:55:23.000Z</updated>
   <id>http://icyhh.site/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="http://icyhh.site/2018/07/06/WE-GRADUATED/"/>
     <id>http://icyhh.site/2018/07/06/WE-GRADUATED/</id>
     <published>2018-07-05T17:30:06.000Z</published>
-    <updated>2018-07-05T17:31:51.000Z</updated>
+    <updated>2018-07-08T09:55:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote><p>​    随手一搜BGM，点开的第一首前奏提琴声一响起——“this is how it feels”，陪伴了求学生涯最长时光的曲风，竟是2000年的热单。无论过多多少年，毕业的情绪都是相似的。</p></blockquote><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:100; height:50;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"video":{"url":"http://pbi3ih0nh.bkt.clouddn.com/Vitamin%20C-Graduation%20%5BFriends%20Forever%5D.mp3"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;
+&lt;p&gt;​    随手一搜BGM，点开的第一首前奏提琴声一响起——“this is how it feels”，陪伴了求学生涯最长时光的曲风，竟是2000年
+      
     
     </summary>
     
